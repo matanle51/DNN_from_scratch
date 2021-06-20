@@ -13,7 +13,7 @@ python grad_test.py
 
 To validate the Jacobian calculation:
 ```
-python grad_test.py
+python jac_test.py
 ```
 
 To validate the Gradient calculation throughout the entire network:
